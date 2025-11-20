@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": "f9f2",
+      "usuario": "Bru",
+      "cpf": "55877493809",
+      "senha": "123"
+    },
+    {
+      "id": "1d60",
+      "usuario": "Bruno",
+      "cpf": "55877493809",
+      "senha": "123"
+    },
+    {
+      "id": "3ccf",
+      "usuario": "1",
+      "cpf": "55877493809",
+      "senha": "11"
+    }
+  ],
+  "tarefas": [
+    {
+      "id": "",
+      "titulo": "Titulo",
+      "descricao": "Descricao",
+      "dataInicial": "12/11/2025",
+      "dataFinal": "13/11/2025",
+      "idUsuario": "4f1b"
+    }
+  ]
+}

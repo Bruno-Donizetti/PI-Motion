@@ -1,0 +1,11 @@
+<app-janela-cadastro>
+    <app-input placeholder="Usuario" type = "text" (valorChange)="setUsuario($event)"/>
+    <app-input placeholder="Senha" type="password" (valorChange)="setSenha($event)"/>
+    <app-botao cor="verde" texto="Login" (click)="login()"/>
+    <app-botao cor="verde" texto="Criar conta" />
+
+
+<p>{{usuario}}</p>
+<p>{{senha}}</p>
+<p>{{existe}}</p>
+</app-janela-cadastro>
